@@ -7,15 +7,15 @@ Examples of using Retrofit 2.0
 #### Add dependencies
 ```java
 //Retrofit
-    compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
-    compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
+compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
+compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
 
-    //RxJava
-    compile 'com.squareup.retrofit:adapter-rxjava:2.0.0-beta2'
-    compile 'io.reactivex:rxandroid:1.0.1'
+//RxJava
+compile 'com.squareup.retrofit:adapter-rxjava:2.0.0-beta2'
+compile 'io.reactivex:rxandroid:1.0.1'
 
-    //logging
-    compile 'com.squareup.okhttp:logging-interceptor:2.6.0'
+//logging
+compile 'com.squareup.okhttp:logging-interceptor:2.6.0'
 ```
 
 #### Add logging
