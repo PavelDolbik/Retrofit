@@ -1,4 +1,4 @@
-## Service & Thread
+## Retrofit 2.0
 
 Examples of using Retrofit 2.0
 
